@@ -1,0 +1,6 @@
+{
+  "name": "Apa Nak Makan Tonight",
+  "description": "A fun, colorful, and simple Southeast Asian food decision helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
